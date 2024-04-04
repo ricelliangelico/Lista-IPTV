@@ -1,0 +1,14 @@
+####################################
+Lista de IPTV - TV ABERTA
+
+#EXTM3U
+#EXTINF:-1 tvg-id="tvaberta" group-title="TV ABERTA" tvg-name="Rede Record do Rio Grande do Norte" tvg-logo="https://supertvaovivo.co/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2022/04/RECORD-TV.jpg.webp",Rede Record RN
+https://video03.logicahost.com.br/portaldatropical/portaldatropical/chunklist_w579992752.m3u8
+
+############## REDE TV #################
+#EXTINF:-1 tvg-id="tvaberta" group-title="TV ABERTA" tvg-name="Rede TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b0baf19518fb782525c37b40c2f5d9b5.webp",Rede TV
+https://cdn.jmvstream.com/w/AVJ-15235/playlist/chunklist.m3u8
+
+############## SBT #################
+#EXTINF:-1 tvg-id="tvaberta" group-title="TV ABERTA" tvg-name="Sistema Brasileiro de Televisão" tvg-logo="https://supertvaovivo.co/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2021/06/SBT.jpg.webp",SBT
+https://server11.net/sbt/tracks-v1a1/mono.m3u8?remote=179.105.129.35&token=5d2d7a81fac8a59e3157e20739ebc81667aa61a8-2f68fbb9a4d5380505cc825c7e288009-1712200315-1712196715
